@@ -9,7 +9,7 @@ Repositorio compatible con JAVA8 (144)
 
 Clonar el repositorio
 
-git clone https://github.com/RicardoRa/FBcmd4J.git
+git clone https://github.com/RicardoRa/fbcmd4j.git
 Importar a Eclipse
 
 1.	Seguir la siguiente ruta: File -> Import -> Existing Projects into Workspace.
